@@ -1,0 +1,54 @@
+#back
+{
+    background: url(new.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height: 550px;
+}
+#road
+{
+    background: url(road.webp);
+    width:2000px;
+    height: 250px;
+}
+#img
+{
+width: 350px;
+}
+#btn{
+    width: 150px;
+    height: 50px ;
+    background-color: yellow;
+    font-size: 30px;
+    margin-top: 20px;
+    }
+#dbtn
+    {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+body{
+    margin: 0%;
+    padding: 0%;
+    }
+    #car{
+    background: url(road.jpg);
+    
+    }
+    #scene{
+    background: url(side.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 450px;
+    }
+   
+    #bdiv{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 40vh;
+        }
